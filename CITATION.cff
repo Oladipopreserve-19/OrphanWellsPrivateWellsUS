@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Orphaned oil and gas wells and private-well groundwater: a census block group exposure screen for the United States: code and results"
+authors:
+  - family-names: Oladipo
+    given-names: Preserve Oluwadimimu
+    affiliation: "Department of Geology and Mineral Sciences, University of Ilorin, Nigeria"
+    orcid: "https://orcid.org/0009-0008-3770-1704"
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/Oladipopreserve-19/OrphanWellsPrivateWellsUS"
+keywords: [orphaned wells, abandoned oil and gas wells, domestic wells, private wells, groundwater, exposure, census block groups, Appalachian Basin]
