@@ -1,0 +1,5 @@
+variable,exposed_median,not_exposed_median,high_concern_median,n_exposed,n_not_exposed,n_high_concern,mann_whitney_p
+Median household income (USD),66820.5,73333.0,68855.5,8510,68580,874,3.16e-92
+Population below poverty line (%),9.9,8.6,9.1,8880,72193,900,4.67e-26
+Population other than non-Hispanic white (%),7.4,19.7,5.0,8887,72338,901,0.0
+Population density (per km²),28.9,273.6,44.6,8898,72638,902,0.0

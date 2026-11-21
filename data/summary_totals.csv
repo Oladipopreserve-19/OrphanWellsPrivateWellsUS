@@ -1,0 +1,4 @@
+radius_km,unique_wellusers,share_of_all_wellusers,orphan_wells_with_any,orphan_wells_100plus,blockgroups_with_exposed_users
+0.5,318531,0.0086,61186,532,6132
+1.0,822685,0.0221,96378,5777,8900
+2.0,1833573,0.0493,111646,34879,12600

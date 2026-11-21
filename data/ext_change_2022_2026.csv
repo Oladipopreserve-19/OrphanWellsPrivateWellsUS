@@ -1,0 +1,10 @@
+,value
+wells_2022_in_release,117672
+wells_2022_conus_unique,113072
+wells_2026_conus_unique,125425
+wells_2026_new_vs_2022,38473
+wells_2022_absent_in_2026,27262
+exposed_users_1km_2022,799318
+exposed_users_1km_2026,822685
+users_exposed_only_by_new_wells,134673
+users_no_longer_exposed,112535
