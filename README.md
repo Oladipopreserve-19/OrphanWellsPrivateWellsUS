@@ -54,8 +54,10 @@ Then run in order:
 ## Contents
 
 * `code/` analysis scripts
-* `data/blockgroup_exposure.csv` every block group: private-well users, exposed users at 0.5, 1 and 2 km, share exposed, orphaned wells
-* `data/orphanwell_exposure.csv` every orphaned well location: private-well users within 0.5, 1 and 2 km
+* `data/full_tables.zip` contains three large tables:
+  * `blockgroup_exposure.csv` every block group: private-well users, exposed users at 0.5, 1 and 2 km, share exposed, orphaned wells
+  * `orphanwell_exposure.csv` every orphaned well location: private-well users within 0.5, 1 and 2 km
+  * `ext_demographics_bg.csv` ACS variables and exposure class for each block group
 * `data/ext_*.csv`, `data/summary_*.csv` results tables (aquifers, well type, counties, demographics, uncertainty, change)
 * `figures/` figures 1 to 6 (300 dpi)
 
